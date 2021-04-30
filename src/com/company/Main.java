@@ -19,6 +19,7 @@ public class Main {
                 break;
             default:
                 System.out.println("number is out of range");
+                
         }
     }
 }
